@@ -1,0 +1,26 @@
+Hecho por:
+
+          .___    .___      __               ____________  
+          |   | __| _/_____/  |_  ________ _/_   \_____  \ 
+          |   |/ __ |/ __ \   __\/  ___/  |  \   | _(__  < 
+          |   / /_/ \  ___/|  |  \___ \|  |  /   |/       \
+          |___\____ |\___  >__| /____  >____/|___/______  /
+                   \/    \/          \/                 \/ 
+Versión: 1.0
+
+
+1.- Ejecutar
+2.- Esperar hasta el inicio de la partida
+3.- Presionar Enter apenas comience la partida
+4.- Para reiniciar el contador se necesita cerrar y abrir el programa
+
+
+Notas:
+
+(El contador empieza al presionar enter, por lo que se debe presionar justo al comenzar la partida, preferiblemente desde el segundo 00:00. NO ES AUTOMATICO)
+Un Sonido suena cuando el tipo de oleada aparece, esta la oleada normal (normal.ogg), (precanon.ogg) y (canon.ogg)
+el cronometro empieza a contar desde 00:00 hasta el minuto 01:05 desde que Enter es Presionado.
+
+-Puedes modificar los sonidos de alerta a tu preferencia, debe tener formato ".ogg"
+-Puedes utilizar: "https://audio.online-convert.com/es/convertir-a-ogg" para convertir archivos mp3 a ogg.
+-En Configuraciones.ini puedes cambiar el tiempo de la primera oleada y el tiempo entre oleadas normales, si no puedes editarlo abrelo con el Bloc de notas.

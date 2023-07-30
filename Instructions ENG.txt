@@ -1,0 +1,28 @@
+Made by:
+
+          .___    .___      __               ____________  
+          |   | __| _/_____/  |_  ________ _/_   \_____  \ 
+          |   |/ __ |/ __ \   __\/  ___/  |  \   | _(__  < 
+          |   / /_/ \  ___/|  |  \___ \|  |  /   |/       \
+          |___\____ |\___  >__| /____  >____/|___/______  /
+                   \/    \/          \/                 \/ 
+Version: 1.0
+
+1.- Execute "Minion Wave" or "OleadasPrecanon.exe".
+2.- Wait until game starts.
+3.- Press Enter as soon as the game starts.
+4.- To reset the timer, you need re-open the program.
+
+
+Notes:
+
+(Timer starts when you press Enter, so it must be pressed right at the start of the game, preferably from the second 00:00. IT IS NOT AUTOMATIC).
+A sound plays when a type of minion wave appears, there is the normal wave (normal.ogg), (precanon.ogg) and (canon.ogg).
+timer starts counting from 00:00 to minute 01:05 from when Enter is pressed.
+
+-You can modify the alert sounds to your preference, it must have ".ogg" format.
+-You can use: "https://audio.online-convert.com/en/convert-to-ogg" to convert mp3 files to ogg.
+-In "Configuraciones.ini" you can change the time of the first wave and the time between normal waves, if you can't edit it open it with Notepad. (Since this .ini is in spanish translation is:
+[time]
+first_wave_start_time = 65
+loop_time = 30").
